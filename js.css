@@ -1,0 +1,44 @@
+#sari{
+  box-shadow: 0 0 40px rebeccapurple;
+background: white ;
+color: black;
+border: 10px white solid;
+
+margin-top: 125px;
+border-radius:50% ;
+}
+body{
+  background: black;
+}
+#kk{
+  box-shadow: 0 0 40px rebeccapurple;
+background: white ;
+color: black;
+border: 10px white solid;
+margin-left: 262px ;
+margin-top: 125px;
+border-radius:50% ;
+  
+  
+}
+#hhh{
+  margin-left:145px;
+}
+#zz{
+  margin-left:130px;
+}
+h4{
+  color: green;
+margin-left:275px;
+margin-top:;
+
+
+  
+}
+@media screen and (min-width:700px) and (max-width:1000px){
+  
+
+*{
+  font-size:100px ;
+}
+}
